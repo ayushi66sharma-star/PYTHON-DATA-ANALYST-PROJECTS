@@ -218,7 +218,4 @@ This repository is released under the MIT License (see `LICENSE`).
 **Ayushi Sharma**
 Email: [ayushi66sharma@gmail.com](mailto:ayushi66sharma@gmail.com)
 
----
-
-**Pro tip:** Add project thumbnails and badges (tests, coverage, license) at the top once CI/CD is configured.
- PYTHON-DATA-ANALYST-PROJECTS
+ --
